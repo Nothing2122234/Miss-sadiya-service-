@@ -408,7 +408,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-image: url(../images/slider-bg.jpg);
+  background-image: url(slider-bg.jpg);
   background-size: cover;
 }
 
@@ -601,7 +601,7 @@ a:focus {
   position: absolute;
   top: 50%;
   width: 45px;
-  height: 70%;
+  height: 100%;
   background-color: #f07b26;
   z-index: 3;
 }
